@@ -11,5 +11,9 @@ preorder(),postorder(),inorder(),levelorder() - specific ways for traversing who
 get_root_data() - data of root in AVL\
 merge() - merging two AVL trees\
 find() - find specific node if exists and return data of node\
-contains() - find specific node if exists\
+contains() - find specific node if exists
 # Operators
+== operator - equality of AVL trees
+print() - print AVL tree\
+!= inequality of AVL trees\
++, += - sum of AVL trees
