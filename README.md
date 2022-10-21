@@ -8,7 +8,8 @@ get_height() - height of entire tree.\
 erase() - delete node with given key(calculate height, update balance like in insert().\
 get_number_of_nodes() - number of nodes in tree.\
 preorder(),postorder(),inorder(),levelorder() - specific ways for traversing whole tree by visiting all nodes(pre,post,in) and by level(level). 
-get_root_data() - data of root in AVL
-merge() - merging two AVL trees
-find() - find specific node if exists and return data of node
-contains() - find specific node if exists
+get_root_data() - data of root in AVL\
+merge() - merging two AVL trees\
+find() - find specific node if exists and return data of node\
+contains() - find specific node if exists\
+# Operators
