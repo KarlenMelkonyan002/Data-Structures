@@ -15,5 +15,5 @@ contains() - find specific node if exists
 # Operators
 == operator - equality of AVL trees
 print() - print AVL tree\
-!= inequality of AVL trees\
+!= - inequality of AVL trees\
 +, += - sum of AVL trees
