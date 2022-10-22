@@ -17,3 +17,5 @@ contains() - find specific node if exists
 print() - print AVL tree\
 != - inequality of AVL trees\
 +, += - sum of AVL trees
+# Utility function
+min_node() - take minimum value node(for deleting)
