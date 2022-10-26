@@ -13,7 +13,7 @@ merge() - merging two AVL trees\
 find() - find specific node if exists and return data of node\
 contains() - find specific node if exists
 # Operators
-Operators are working with specified roots\
+Operators are working with specified roots:\
 == operator - equality of AVL trees\
 print() - print AVL tree\
 != - inequality of AVL trees\
